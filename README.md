@@ -1,4 +1,4 @@
-# The Audio Streaming Platform: Your Ultimate Audio Experience
+# The Audio Streaming Platform
 
 **The Audio Streaming Platform** is a Flutter application designed to provide a seamless audio streaming experience from YouTube content. Enjoy your favorite **podcasts, music, lectures, and more** without the distractions and data consumption of video playback.
 
